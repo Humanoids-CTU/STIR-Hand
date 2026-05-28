@@ -46,8 +46,9 @@ pip install -r requirements-cpu.txt
 pip install -r requirements-cuda.txt
 ```
 
-Then, use the jupyter notebook GUI to explore our data:
+Then, navigate to the repository's folder and use the jupyter notebook GUI to explore our data:
 
 ```bash
+cd STIR-Hand/
 jupyter lab
 ```
