@@ -3,7 +3,7 @@
 This is the repository for the analysis conducted for the STIR-Hand paper, currently under review. [TODO: Add link to paper and video after publication]. The STIR-Hand is an underactuated, safe, tendon-driven, two-finger robotic hand actuated by two independent motors. 
 
 <p align="center">
-  <img src="STIR-Hand_design.png" alt="STIR-Hand Design" />
+  <img src="figs/STIR-Hand_design.png" alt="STIR-Hand Design" />
 </p>
 <!-- The default markdown statement is ![STIR-Hand Design](STIR-Hand_design.png), but this does not center the image. -->
 
